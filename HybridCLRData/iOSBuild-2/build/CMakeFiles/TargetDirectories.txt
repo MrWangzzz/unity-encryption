@@ -1,0 +1,9 @@
+/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/iOSBuild-2/build/CMakeFiles/il2cpp_original.dir
+/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/iOSBuild-2/build/CMakeFiles/edit_cache.dir
+/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/iOSBuild-2/build/CMakeFiles/rebuild_cache.dir
+/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/iOSBuild-2/build/external/CMakeFiles/external.dir
+/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/iOSBuild-2/build/external/CMakeFiles/edit_cache.dir
+/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/iOSBuild-2/build/external/CMakeFiles/rebuild_cache.dir
+/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/iOSBuild-2/build/objective/CMakeFiles/objective.dir
+/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/iOSBuild-2/build/objective/CMakeFiles/edit_cache.dir
+/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/iOSBuild-2/build/objective/CMakeFiles/rebuild_cache.dir

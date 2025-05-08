@@ -1,0 +1,7 @@
+#include "/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/LocalIl2CppData-OSXEditor/il2cpp/libil2cpp/il2cpp-config.h"
+#include "/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/LocalIl2CppData-OSXEditor/il2cpp/libil2cpp/gc/BoehmGC.cpp"
+#include "/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/LocalIl2CppData-OSXEditor/il2cpp/libil2cpp/gc/GCHandle.cpp"
+#include "/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/LocalIl2CppData-OSXEditor/il2cpp/libil2cpp/gc/GarbageCollector.cpp"
+#include "/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/LocalIl2CppData-OSXEditor/il2cpp/libil2cpp/gc/NullGC.cpp"
+#include "/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/LocalIl2CppData-OSXEditor/il2cpp/libil2cpp/gc/WriteBarrier.cpp"
+#include "/Users/roamsoft/Documents/GitHub/bus/HybridCLRData/LocalIl2CppData-OSXEditor/il2cpp/libil2cpp/gc/WriteBarrierValidation.cpp"
